@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/feedback"
+        android:title="Rate Us"
+        android:icon="@drawable/ic_baseline_rate_review_24"
+        app:showAsAction="never">
+    </item>
+
+    <item
+        android:id="@+id/policy"
+        android:title="Privacy Policy"
+        android:icon="@drawable/ic_baseline_privacy_tip_24"
+        app:showAsAction="never">
+    </item>
+
+
+</menu>
