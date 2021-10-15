@@ -8,6 +8,8 @@
     android:gravity="center"
     tools:context=".splash">
 
+<!--    le-->
+
     <VideoView
         android:id="@+id/videoview"
         android:layout_width="0dp"
